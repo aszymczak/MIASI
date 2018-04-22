@@ -1,0 +1,10 @@
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\bin\Debug\netcoreapp2.0\WieżaHonoiVB.deps.json
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\bin\Debug\netcoreapp2.0\WieżaHonoiVB.runtimeconfig.json
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\bin\Debug\netcoreapp2.0\WieżaHonoiVB.runtimeconfig.dev.json
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\bin\Debug\netcoreapp2.0\WieżaHonoiVB.dll
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\bin\Debug\netcoreapp2.0\WieżaHonoiVB.pdb
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\obj\Debug\netcoreapp2.0\WieżaHonoiVB.vbproj.CoreCompileInputs.cache
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\obj\Debug\netcoreapp2.0\WieżaHonoiVB.AssemblyInfoInputs.cache
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\obj\Debug\netcoreapp2.0\WieżaHonoiVB.AssemblyInfo.vb
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\obj\Debug\netcoreapp2.0\WieżaHonoiVB.dll
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\WieżaHonoiVB\obj\Debug\netcoreapp2.0\WieżaHonoiVB.pdb
