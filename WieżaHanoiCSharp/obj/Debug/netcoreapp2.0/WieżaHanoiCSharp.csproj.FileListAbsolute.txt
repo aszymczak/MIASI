@@ -1,0 +1,10 @@
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\bin\Debug\netcoreapp2.0\WieżaHanoiCSharp.deps.json
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\bin\Debug\netcoreapp2.0\WieżaHanoiCSharp.runtimeconfig.json
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\bin\Debug\netcoreapp2.0\WieżaHanoiCSharp.runtimeconfig.dev.json
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\bin\Debug\netcoreapp2.0\WieżaHanoiCSharp.dll
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\bin\Debug\netcoreapp2.0\WieżaHanoiCSharp.pdb
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\obj\Debug\netcoreapp2.0\WieżaHanoiCSharp.csproj.CoreCompileInputs.cache
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\obj\Debug\netcoreapp2.0\WieżaHanoiCSharp.AssemblyInfoInputs.cache
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\obj\Debug\netcoreapp2.0\WieżaHanoiCSharp.AssemblyInfo.cs
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\obj\Debug\netcoreapp2.0\WieżaHanoiCSharp.dll
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\obj\Debug\netcoreapp2.0\WieżaHanoiCSharp.pdb
