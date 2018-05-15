@@ -12,8 +12,9 @@ namespace WieżaHanoiCSharp
             Program p1 = new Program();
             Stopwatch MyTimer = new Stopwatch();
 
-            int intDisks;
-            Int32.TryParse(Console.ReadLine(), out intDisks);
+            int intDisks = 0;
+            Int32.TryParse(args[0], out intDisks);
+//            Int32.TryParse(Console.ReadLine(), out intDisks);
 
             MyTimer.Start();
             p1.MoveTowerDisk(intDisks, "A", "B", "C");
@@ -28,7 +29,7 @@ namespace WieżaHanoiCSharp
             {
                 intMoves += 1;
                 MoveTowerDisk(intDisks - 1, strFromTower, strViaTower, strToTower);
-//                Console.WriteLine("Move disk {0} from {1} to {2}", intDisks, strFromTower, strToTower);
+ //               Console.WriteLine("Move disk {0} from {1} to {2}", intDisks, strFromTower, strToTower);
                 MoveTowerDisk(intDisks - 1, strViaTower, strToTower, strFromTower);
             }
         }

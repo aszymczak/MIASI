@@ -8,3 +8,4 @@ C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\obj\Debug\netcore
 C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\obj\Debug\netcoreapp2.0\WieżaHanoiCSharp.AssemblyInfo.cs
 C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\obj\Debug\netcoreapp2.0\WieżaHanoiCSharp.dll
 C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżaHanoiCSharp\obj\Debug\netcoreapp2.0\WieżaHanoiCSharp.pdb
+C:\Users\andrj\Desktop\GitHub Projects\MIASI\wieżahanoiCSharp\obj\Debug\netcoreapp2.0\WieżaHanoiCSharp.csprojResolveAssemblyReference.cache

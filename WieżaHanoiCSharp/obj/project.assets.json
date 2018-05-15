@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andrj\\Desktop\\GitHub Projects\\MIASI\\WieżaHanoiCSharp\\WieżaHanoiCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\andrj\\Desktop\\GitHub Projects\\MIASI\\wieżahanoiCSharp\\WieżaHanoiCSharp.csproj",
       "projectName": "WieżaHanoiCSharp",
-      "projectPath": "C:\\Users\\andrj\\Desktop\\GitHub Projects\\MIASI\\WieżaHanoiCSharp\\WieżaHanoiCSharp.csproj",
+      "projectPath": "C:\\Users\\andrj\\Desktop\\GitHub Projects\\MIASI\\wieżahanoiCSharp\\WieżaHanoiCSharp.csproj",
       "packagesPath": "C:\\Users\\andrj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andrj\\Desktop\\GitHub Projects\\MIASI\\WieżaHanoiCSharp\\obj\\",
+      "outputPath": "C:\\Users\\andrj\\Desktop\\GitHub Projects\\MIASI\\wieżahanoiCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

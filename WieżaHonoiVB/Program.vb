@@ -10,7 +10,7 @@ Module Program
 
         Console.Clear()
 
-        Integer.TryParse(Console.ReadLine(), intDisks)
+        Integer.TryParse(args(0), intDisks)
 
         Dim MyTimer = Stopwatch.StartNew()
         MoveTowerDisk(intDisks, "A", "B", "C")
